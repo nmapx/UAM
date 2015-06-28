@@ -1,0 +1,1 @@
+palindrom par = par == reverse par

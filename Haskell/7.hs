@@ -1,0 +1,1 @@
+dodatnie = foldr (const succ) 0 . filter (>0)

@@ -1,0 +1,1 @@
+drugi lista = head(tail lista)

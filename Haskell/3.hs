@@ -1,0 +1,1 @@
+postatni lista = head(tail(reverse lista))
