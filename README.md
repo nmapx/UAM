@@ -1,8 +1,6 @@
 # Adam Mickiewicz University (UAM)
 ## IT - informatyka
 ### Exercises and projects (zadania i projekty)
-===============================================
-#### Menu >.<
-* Algorytmy kombinatoryczne
+* Algorytmy kombinatoryczne (c++)
 * Haskell
-* Sztuczna inteligencja
+* Sztuczna inteligencja (python)
